@@ -1,0 +1,9 @@
+# fichiers secrets
+.env
+
+# environnements Python
+myEnv2/
+venv/
+__pycache__/
+*.pyc
+
